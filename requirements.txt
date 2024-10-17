@@ -1,0 +1,7 @@
+tensorflow==2.15.1
+pandas==2.2.3
+numpy==1.26.4
+matplotlib==3.9.2
+requests==2.32.3
+jsonschema==4.23.0
+ptl==0.3.0
